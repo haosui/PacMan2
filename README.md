@@ -27,6 +27,7 @@ Nếu giá trị đang xét thì lớn hơn alpha thì cập nhật alpha hiện
 Khi xét hàm min 
 hàm min là hàm lấy giá trị nhỏ nhất trong các state 
 Nếu có một stat nhỏ hơn alpha thì chắc chán alpha sẽ không lấy giá trị nào ở nhánh này vì khiểu gì hàm min sẽ cũng sẽ lấy giá tị nhở hơn bằng giá trị đang xét vad alpha sẽ không lấy nó.
-nếu có beta nhỏ hơn thì cập nhật beta
+nếu có beta nhỏ hơn thì cập nhật beta.
+
 Câu 4.
 chúng ta đang xét hàm min không phải là tối ưu, vì vậy ta lấy giá trị trung bình của tất cả các trường hợp của hàm min, 
