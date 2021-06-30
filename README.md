@@ -31,3 +31,11 @@ nếu có beta nhỏ hơn thì cập nhật beta.
 
 Câu 4.
 chúng ta đang xét hàm min không phải là tối ưu, vì vậy ta lấy giá trị trung bình của tất cả các trường hợp của hàm min, 
+
+
+
+
+https://www.coursera.org/learn/introduction-to-cloud/home/welcome
+https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+https://www.coursera.org/learn/aws-iot-developing-and-deploying-an-internet-of-things
+
